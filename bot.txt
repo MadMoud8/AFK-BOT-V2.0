@@ -1,0 +1,7 @@
+{               
+
+                "ip":"OPplayz18.aternos.me",
+                "port":"19147",
+                "name":"AFK Bot V2.0"
+
+}
